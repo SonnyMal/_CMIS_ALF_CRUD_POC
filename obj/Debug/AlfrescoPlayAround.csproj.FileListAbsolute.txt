@@ -1,0 +1,11 @@
+C:\Projects\WIP\SecurityServerPlayAround\AlfrescoPlayAround\bin\Debug\AlfrescoPlayAround.exe.config
+C:\Projects\WIP\SecurityServerPlayAround\AlfrescoPlayAround\bin\Debug\AlfrescoPlayAround.exe
+C:\Projects\WIP\SecurityServerPlayAround\AlfrescoPlayAround\bin\Debug\AlfrescoPlayAround.pdb
+C:\Projects\WIP\SecurityServerPlayAround\AlfrescoPlayAround\bin\Debug\DotCMIS.dll
+C:\Projects\WIP\SecurityServerPlayAround\AlfrescoPlayAround\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\WIP\SecurityServerPlayAround\AlfrescoPlayAround\bin\Debug\RestSharp.Net2.dll
+C:\Projects\WIP\SecurityServerPlayAround\AlfrescoPlayAround\bin\Debug\Newtonsoft.Json.pdb
+C:\Projects\WIP\SecurityServerPlayAround\AlfrescoPlayAround\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\WIP\SecurityServerPlayAround\AlfrescoPlayAround\obj\Debug\AlfrescoPlayAround.csprojResolveAssemblyReference.cache
+C:\Projects\WIP\SecurityServerPlayAround\AlfrescoPlayAround\obj\Debug\AlfrescoPlayAround.exe
+C:\Projects\WIP\SecurityServerPlayAround\AlfrescoPlayAround\obj\Debug\AlfrescoPlayAround.pdb
